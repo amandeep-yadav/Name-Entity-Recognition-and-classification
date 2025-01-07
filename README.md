@@ -147,7 +147,7 @@ The trained model achieves a classification accuracy of \~90% on the test set. A
 
 Below is the workflow diagram for the process:
 
-![Workflow Diagram](https://github.com/amandeep-yadav/Name-Entity-Recognition-and-classification/blob/main/img/Untitled%20diagram-2025-01-07-152548.png)
+![Workflow Diagram](https://github.com/amandeep-yadav/Name-Entity-Recognition-and-classification/blob/main/img/Untitled%20diagram-2025-01-07-152548.png=400)
 
 ## Future Work
 
