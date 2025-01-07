@@ -143,6 +143,11 @@ print(predicted_labels)
 The trained model achieves a classification accuracy of \~90% on the test set. Additional evaluation metrics, such as precision, recall, and F1-score, can be calculated using scikit-learn's `classification_report` and `confusion_matrix`.
 
 ---
+## Workflow Diagram
+
+Below is the workflow diagram for the process:
+
+![Workflow Diagram](https://github.com/amandeep-yadav/Name-Entity-Recognition-and-classification/blob/main/img/Untitled%20diagram-2025-01-07-152548.png)
 
 ## Future Work
 
